@@ -5,7 +5,7 @@
 ## docker-compose.yml permet une automatisation des paramètres run plus bas dès le fichier de configuration.
 
 # Forgejo version to use
-version=13.0.3
+version=13.0.4
 
 # Run the Forgejo container with Podman (ensure Podman is installed and configured)
 sudo podman run -d \ #sudo car on ne prend pas la version rootless
